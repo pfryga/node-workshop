@@ -1,0 +1,19 @@
+{
+  "name": "node-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pfryga/node-workshop.git"
+  },
+  "author": "piotr.fryga@allegro.pl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pfryga/node-workshop/issues"
+  },
+  "homepage": "https://github.com/pfryga/node-workshop"
+}
